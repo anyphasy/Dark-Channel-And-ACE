@@ -99,6 +99,7 @@ def zmIceColor(I, ratio=4, radius=3):
     return res
 
 
+
 # 主函数
 if __name__ == '__main__':
     img = cv2.imread('swan.png')
